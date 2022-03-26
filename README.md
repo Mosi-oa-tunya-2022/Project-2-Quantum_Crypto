@@ -1,5 +1,5 @@
 # Project 2: Cryptalgo
-## (Quantum Crypto)
+## Quantum Crypto
 
 ![](https://www.bitcoinmarketjournal.com/wp-content/uploads/2019/10/algorithmic-trading-strategies.jpg)
 
